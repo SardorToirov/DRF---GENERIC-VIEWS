@@ -24,5 +24,5 @@ Swagger UI orqali interaktiv hujjatlash qo‘llab-quvvatlanadi.
 
 1️⃣ **Loyihani yuklab olish**  
 ```bash
-git clone https://github.com/username/student-api-generic.git
+git clone https://github.com/SardorToirov/DRF---GENERIC-VIEWS.git
 cd student-api-generic
